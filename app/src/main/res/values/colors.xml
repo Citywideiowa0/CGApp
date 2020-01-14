@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3778C2</color>
+    <color name="colorPrimaryDark">#28559A</color>
+    <color name="colorAccent">#0F2557</color>
+    <color name ="fourth">#150734</color>
+    <color name="incomplete">#8FF10404</color>
+    <color name="complete">#8F34E40D</color>
+</resources>

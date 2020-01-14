@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056199549405",
+    "firebase_url": "https://connectinggrinnellians-15a2a.firebaseio.com",
+    "project_id": "connectinggrinnellians-15a2a",
+    "storage_bucket": "connectinggrinnellians-15a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056199549405:android:1eb829fe08b2b830",
+        "android_client_info": {
+          "package_name": "c.connectinggrinnellians.connectinggrinnellians"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056199549405-1u5kqp7dg1pbmj2bfon2mrqth4pmnn6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf5qmjJNvN0bOIA5pfMMHtBcn_XpUmGVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056199549405-1u5kqp7dg1pbmj2bfon2mrqth4pmnn6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

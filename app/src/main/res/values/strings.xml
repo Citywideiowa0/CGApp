@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Connecting Grinnellians</string>
+    <string name="user_home_title">CG TUTOR</string>
+    <string name="users_child_index">users</string>
+    <string name="logs_child_index">tutorLogs</string>
+    <string-array name="sites">
+        <item>Middle School</item>
+        <item>High School</item>
+        <item>Both</item>
+        <item>N/A</item>
+    </string-array>
+    <string name="time_zone">GMT-05:00</string>
+</resources>
