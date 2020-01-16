@@ -1,4 +1,4 @@
-# CGApp: Application for Connecting Grinnellians Tutors
+# Personal Project: Application for Connecting Grinnellians Tutors
 
 This app is a personal project in progress.  
 
